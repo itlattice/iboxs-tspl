@@ -10,7 +10,10 @@
         }
     ],
     "require": {
-        "php": ">=7.0"
+        "php": ">=7.0",
+        "ext-imagick": "*",
+        "iboxs/basic": "*",
+        "picqer/php-barcode-generator": "*"
     },
     "autoload": {
         "psr-4": {
